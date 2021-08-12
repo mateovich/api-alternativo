@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1009234_03",
+        "ubicacion": "al fondo a la izquierda",
+        "tamaño": "mediano",
+        "estado": "libre"
+    },
+    {
+        "id": "1009234_05",
+        "ubicacion": "la primera al frente",
+        "tamaño": "chico",
+        "estado": "ocupado"
+    },
+    {
+        "id": "3002943_11",
+        "ubicacion": "11",
+        "tamaño": "grande",
+        "estado": "ocupado"
+    },
+    {
+        "id": "9482934_03",
+        "ubicacion": "03",
+        "tamaño": "mediano",
+        "estdao": "libre"
+    }
+]

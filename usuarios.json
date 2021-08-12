@@ -1,0 +1,33 @@
+[
+    {
+        "cedula": "0011",
+        "nombre": "Horacio Estrenduo",
+        "tipoPermiso": "civil"
+    },
+    {
+        "cedula": "0012",
+        "nombre": "Alfredino Insulado",
+        "tipoPermiso": "civil"
+    },
+    {
+        "cedula": "0013",
+        "nombre": "Ramona Yuleia",
+        "tipoPermiso": "turistico"
+    },
+    {
+        "cedula": "8249",
+        "nombre": "Gihroldo Roseneca",
+        "tipoPermiso": "militar"
+    },
+    {
+        "cedula": "9041",
+        "nombre": "Trudith Yuleia",
+        "tipoPermiso": "civil"
+    },
+    {
+        "cedula": "9329",
+        "nombre": "Cristiano Ronaldo",
+        "tipoPermiso": "civil"
+    }
+
+]

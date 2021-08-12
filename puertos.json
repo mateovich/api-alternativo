@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1009234",
+        "nombre": "BenAki",
+        "ubicacion": "Campo de dolico",
+        "cantidad de estacionamientos": 21
+    },
+    {
+        "id": "3002943",
+        "nombre": "HeliPosate",
+        "ubicacion": "Sobre el pastito ahí",
+        "cantidad de estacionamientos": 52
+    },
+    {
+        "id": "9482934",
+        "nombre": "elPuerto",
+        "ubicacion": "Plataforma sobre el río de la plata",
+        "cantidad de estacionamientos": 4
+    }
+]
