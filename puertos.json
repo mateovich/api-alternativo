@@ -13,8 +13,14 @@
     },
     {
         "id": "9482934",
-        "nombre": "elPuerto",
+        "nombre": "elAcuaPuerto",
         "ubicacion": "Plataforma sobre el río de la plata",
         "cantidad de estacionamientos": 4
+    },
+    {
+        "id": "9343842",
+        "nombre": "eltechodeLuky",
+        "ubicacion": "el techo de la torre de la casa de Luky",
+        "cantidad de estacionamientos": 1
     }
 ]
