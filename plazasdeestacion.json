@@ -21,6 +21,12 @@
         "id": "9482934_03",
         "ubicacion": "03",
         "tamaño": "mediano",
-        "estdao": "libre"
+        "estado": "libre"
+    },
+    {
+        "id": "9343842_mitecho",
+        "ubicacion": "launica",
+        "tamaño": "mediano",
+        "estado" "libre"
     }
 ]
